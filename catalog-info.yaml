@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sowri
+  description: associate software engineer
+  tags:
+    - go
+    - website
+spec:
+  type: service
+  lifecycle: production
+  owner: devops team
