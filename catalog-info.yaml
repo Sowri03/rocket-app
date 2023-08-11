@@ -5,7 +5,8 @@ metadata:
   description: associate software engineer
   tags:
     - go
-    - website
+    - https://www.harman.com/
+  email: majetisowri2002@gmail.com
 spec:
   type: service
   lifecycle: production
