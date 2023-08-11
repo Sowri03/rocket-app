@@ -3,10 +3,9 @@ kind: Component
 metadata:
   name: sowri
   description: associate software engineer
-  email: majetisowri2002
   tags:
     - go
-    - https://www.harman.com/
+    - website
   
 spec:
   type: service
