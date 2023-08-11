@@ -14,4 +14,4 @@ metadata:
 spec:
   type: service
   lifecycle: prod
-  owner: devops team
+  owner: digital harman team
