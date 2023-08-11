@@ -6,7 +6,7 @@ metadata:
   tags:
     - go
     - https://www.harman.com/
-  email: majetisowri2002@gmail.com
+  email: majetisowri2002
 spec:
   type: service
   lifecycle: production
