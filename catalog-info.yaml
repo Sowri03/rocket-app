@@ -9,7 +9,7 @@ metadata:
   links:
     - url: https://www.harman.com
       title: sowris techshelf
-      icon: dashboard
+      icon: api
   
 spec:
   type: service
